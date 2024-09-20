@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToeAndroid</string>
+    <string name="gamer_X_enter">Игрок X ходит</string>
+    <string name="restart_game">Сбросить игру</string>
+</resources>
